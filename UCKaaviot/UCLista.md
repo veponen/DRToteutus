@@ -14,9 +14,9 @@ Tiimien muodostamisen jälkeen jokainen tiimi sovitun sovitun ajankohdan jälkee
 # genTime
 [Yhteisten aikojen muodostus uc kaavio](./genTime.uxf)
 Muodostetaan ryhmät jäsenten aikataulujen perusteella. 
-[](./../UCKuvaukset/genTime/teeAikatauluKaavain.md)
-[](./../UCKuvaukset/genTime/kyselläänAikataulutRyhmät.md)
-[](./../UCKuvaukset/genTime/ValitaanRyhmä.md)
+[Aikataulukaavaimen teko](./../UCKuvaukset/genTime/teeAikatauluKaavain.md)
+[Kysele aikataulut ja ryhmät](./../UCKuvaukset/genTime/kyselläänAikataulutRyhmät.md)
+[valitaan ryhmä](./../UCKuvaukset/genTime/ValitaanRyhmä.md)
 
 # groupFeedBack
 [ryhmäpalautteen anto UC](./groupFeedback.uxf)
