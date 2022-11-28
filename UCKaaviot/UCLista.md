@@ -4,8 +4,7 @@ Testataan tästä tehtävää omaa githubrepoa
 https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file
 
 # dailyScrum
-[Daily scrum virtuaalisuus](./dailyScrum.uxf)
-
+<!-- a normal html comment [Daily scrum virtuaalisuus](./dailyScrum.uxf) -->
 Tiimien muodostamisen jälkeen jokainen tiimi sovitun sovitun ajankohdan jälkeen esimerkiksi 3 tunnin ajanjakson aikana kolmeen kysymykseen.
 [uc tiimien muodostus](./../UCKuvaukset/dailyscrum/MuodostetaanTiimit.md)
 [uc kolme kysymystä](./../UCKuvaukset/dailyscrum/kolmeKysymysta.md)
