@@ -86,7 +86,7 @@ Yhteishengen luomiseen tähtäävä kisa. Jokainen ryhmän jäsen järjestää v
 
 # UCVoting
 <!-- [äänestysautomaatti](UCVoting.uxf) -->
-[äänestysautomaatti](UCVoting.uxf)
+[äänestysautomaatti](UCVoting.png)
 
 Minkä tahansa asian anonyymi äänestäminen. 
 * [Perustetaan äänestys](./../UCKuvaukset/UCVoting/PerustaÄänestys.md)
