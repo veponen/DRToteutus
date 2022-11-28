@@ -1,0 +1,27 @@
+<diagram program="umletino" version="15.0.0"><zoom_level>10</zoom_level><element><id>UMLUseCase</id><coordinates><x>180</x><y>50</y><w>120</w><h>80</h></coordinates><panel_attributes>kyselylomakkeen
+teko</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>220</x><y>230</y><w>120</w><h>40</h></coordinates><panel_attributes>Kysely</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>220</x><y>320</y><w>120</w><h>40</h></coordinates><panel_attributes>Ryhmä
+laskenta</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>240</x><y>440</y><w>120</w><h>70</h></coordinates><panel_attributes>Ryhmän
+muodostus
+kysely</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>30</x><y>280</y><w>80</w><h>120</h></coordinates><panel_attributes>Ryhmä-
+asiantuntija</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLActor</id><coordinates><x>520</x><y>280</y><w>60</w><h>110</h></coordinates><panel_attributes>Jäsenet</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLNote</id><coordinates><x>480</x><y>60</y><w>170</w><h>130</h></coordinates><panel_attributes>Note..
+bg=blue
+Asiantuntjuus-arvot  liittyen 
+Opintojakson aiheisiin, esim
+työkokemus läheiseisellä
+alueella. 
+likert scale
+Keskiarvo
+asetettavat painokertoimet</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>80</y><w>110</w><h>240</h></coordinates><panel_attributes>tekee</panel_attributes><additional_attributes>10;220;90;10</additional_attributes></element><element><id>Relation</id><coordinates><x>290</x><y>70</y><w>210</w><h>50</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;190;30</additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>240</y><w>210</w><h>80</h></coordinates><panel_attributes>vastaa</panel_attributes><additional_attributes>10;10;190;60</additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>260</y><w>90</w><h>80</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;include&gt;&gt;</panel_attributes><additional_attributes>20;60;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>300</y><w>190</w><h>190</h></coordinates><panel_attributes>Liittyy/hyväksyy
+ ryhmän</panel_attributes><additional_attributes>10;170;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>330</y><w>190</w><h>140</h></coordinates><panel_attributes>asettaa
+aktiivseksi</panel_attributes><additional_attributes>170;120;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>120</y><w>60</w><h>130</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;40;110</additional_attributes></element><element><id>Relation</id><coordinates><x>90</x><y>240</y><w>150</w><h>80</h></coordinates><panel_attributes>asettaa 
+aktiiviseksi</panel_attributes><additional_attributes>10;60;130;10</additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>350</y><w>120</w><h>110</h></coordinates><panel_attributes>*Esi-
+muodostetut
+ryhmät*</panel_attributes><additional_attributes>10;10;40;90</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>240</x><y>590</y><w>120</w><h>40</h></coordinates><panel_attributes>Ryhmä-ehdotus</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>340</y><w>210</w><h>290</h></coordinates><panel_attributes>Pyytää jäsenyyttä</panel_attributes><additional_attributes>10;270;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>340</y><w>190</w><h>290</h></coordinates><panel_attributes>asettaa 
+aktiiviseksi</panel_attributes><additional_attributes>10;10;170;270</additional_attributes></element><element><id>UMLActor</id><coordinates><x>520</x><y>520</y><w>60</w><h>110</h></coordinates><panel_attributes>Ryhmä</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>530</y><w>190</w><h>100</h></coordinates><panel_attributes>Hyväksyy
+jäsenyyden</panel_attributes><additional_attributes>10;80;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>60</x><y>340</y><w>200</w><h>290</h></coordinates><panel_attributes>Lisää ryhmiin 
+jäseniä</panel_attributes><additional_attributes>10;10;30;250;180;270</additional_attributes></element><element><id>UMLUseCase</id><coordinates><x>330</x><y>130</y><w>120</w><h>40</h></coordinates><panel_attributes>Ryhmäilmoitus</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>320</x><y>160</y><w>160</w><h>300</h></coordinates><panel_attributes>käyttää: 
+ei automaattista
+muodostusta</panel_attributes><additional_attributes>80;10;10;280</additional_attributes></element><element><id>Relation</id><coordinates><x>420</x><y>160</y><w>150</w><h>140</h></coordinates><panel_attributes>ilmoittavat 
+valmiin 
+ryhmän</panel_attributes><additional_attributes>10;10;120;120</additional_attributes></element></diagram>
