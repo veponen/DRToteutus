@@ -1,2 +1,2 @@
 # DRToteutus
-Kurssiaineistoa
+Kurssiaineistoa, julkinen repository
