@@ -11,9 +11,9 @@ https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-fil
 Tiimien muodostamisen jälkeen jokainen tiimi sovitun sovitun ajankohdan jälkeen esimerkiksi 3 tunnin ajanjakson aikana kolmeen kysymykseen.
 * [uc tiimien muodostus](./../UCKuvaukset/dailyscrum/MuodostetaanTiimit.md)
 * [uc kolme kysymystä](./../UCKuvaukset/dailyscrum/kolmeKysymysta.md)
-* [uc Käyttötapaus kysymykset](./../UCKuvaukset/dailyscrum/KäyttötapausOngelmat.md)
+* [uc Käyttötapaus kysymykset](./../UCKuvaukset/dailyscrum/jKäyttötapausOngelmat.md)
 
-# genTime
+# genTime TYÖN ALLA
 <!-- [Yhteisten aikojen muodostus uc kaavio](./genTime.uxf) -->
 [Yhteisten aikojen muodostus uc kaavio](./genTime.png)
 
@@ -33,7 +33,7 @@ Ryhmän toiminnasta kerätään palautetta jotta myöhemmin voitaisi ehkä muodo
 * [tee tulevia ryhmäsuunnitelmia](./../UCKuvaukset/groupFeedBack.md)
 
 
-# GroupFroming
+# GroupForming
 <!-- [Ryhmän muodostus erilaisten tekijöiden perusteella UC](groupForming.uxf) -->
 [Ryhmän muodostus erilaisten tekijöiden perusteella UC](groupForming.png)
 [](./../UCKuvaukset/GroupFroming/)
@@ -52,7 +52,7 @@ Tavoitteena hyvän ja tehokkaan ryhmän muodostaminen. Sovelletaan muutamia tiet
 * [UC Ryhmä-ilmoitus](./../UCKuvaukset/GroupFroming/ryhmäilmoitus.md)
     * jäsenet ilmoittavat ryhmän. näitä ei lasketa automaattiryhmiin mukaan. 
 
-# PaltsuvastaavatUC
+# PaltsuvastaavatUC TYÖN ALLA
 <!-- [Palaverivastaava automaatti](PaltsuvastaavaUC.uxf) -->
 [Palaverivastaava automaatti](PaltsuvastaavaUC.png)
 
@@ -62,7 +62,7 @@ Kirjoittaa mahdolliset ajat kokouskutulla annetulle aikavälillä.
 Automaattisesti kysyy hyväksynnän ensimmäiselle sopivalle ajankohdalle. 
 * [tee kokouskutsu](./../UCKuvaukset/PaltsuvastaavatUC/TeeKokouskutsu.md)
 Tässä annetaan aikaväli jolle kokous pitää saada aikaan
-# personalUC
+# personalUC DEMO
 <!-- [persoonallisuus työparin muodostuksessa](personalUC.uxf) -->
 [persoonallisuus työparin muodostuksessa](personalUC.png)
 [](./../UCKuvaukset/personalUC/)
@@ -72,7 +72,7 @@ Työparien muodostaminen pariohjelmointiin persoonallisuustestin perusteella. Yh
 * [listataan sopivat](./../UCKuvaukset/personalUC/ListataanSopivat.md)
 * [työparin valinta](./../UCKuvaukset/personalUC/työaprinValinta.md)
 
-# UCLevyraati
+# UCLevyraati TYÖN ALLA
 <!-- [Automaattinen levyraati](UCLevyraati.uxf) -->
 [Automaattinen levyraati](UCLevyraati.png)
 [](./../UCKuvaukset/UCLevyraati/)
@@ -84,7 +84,7 @@ Yhteishengen luomiseen tähtäävä kisa. Jokainen ryhmän jäsen järjestää v
 * [Arvaa lähettäjä](./../UCKuvaukset/UCLevyraati/arvaaLähettäjä.md)
 * [Generoi raportti](./../UCKuvaukset/UCLevyraati/generoiRaportti.md)
 
-# UCVoting
+# UCVoting TYÖN ALLA
 <!-- [äänestysautomaatti](UCVoting.uxf) -->
 [äänestysautomaatti](UCVoting.uxf)
 
