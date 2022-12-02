@@ -92,3 +92,9 @@ Minkä tahansa asian anonyymi äänestäminen.
 * [Perustetaan äänestys](./../UCKuvaukset/UCVoting/PerustaÄänestys.md)
 * [Tehdään äänestys](./../UCKuvaukset/UCVoting/teeÄänestys.md)
 * [Julkaistaan äänestystulos](./../UCKuvaukset/UCVoting/JulkaiseTulos.md)
+
+# UCDashboard
+Ongelma: tilanteet vaihtuu ja eri tilanteessa eri asiat on tärkeitä seurata. Kuitenkin usein seuranta monen mutkan takana. vaatii aktiivista "pollaamista"
+Ratkaisu: tilanteesta riippuvast automaattisesti konfiguroituva dashboard, johon voi myös itse vaikuttaa. 
+Käyttötapaukset: 
+?
