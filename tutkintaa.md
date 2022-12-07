@@ -24,7 +24,7 @@ Ryhmien muodostus on monimutkainen operaatio joka jakautuu mahdollisesti useampi
 
 ## **Kysy vertaispalaute**
 Opettajan laittaa vertaispalaute-kyselyn auki. Kaikilta ryhmäläisiltä kysytään. Lopuksi tehdään raportti ryhmästä. 
-Alla Aktiviteettikaavio. 
+Alla Aktiviteettikaavio käyttötapauksesta "kysy vertaispalaute" (nimen pitäisi ehkä olla "anna vertaispalaute"). Käyttötapauksen, ja siten tämän aktiviteettikaavionkin käynnistää jokin tapahtuma, "triggeri". "triggeri" tässä on: 'ryhmän jäsen täyttää vertaispalaute-lomakkeen'. Vertaa edellämainittua käyttötapauksen "triggeri" käsitettä power automateen, mikä se voisi olla siellä???
 
 ![](./ucActivityVertais.png)
 
