@@ -26,7 +26,7 @@ Ryhmien muodostus on monimutkainen operaatio joka jakautuu mahdollisesti useampi
 Opettajan laittaa vertaispalaute-kyselyn auki. Kaikilta ryhmäläisiltä kysytään. Lopuksi tehdään raportti ryhmästä. 
 Alla Aktiviteettikaavio. 
 
-![](./UCKaaviot/ucActivityVertais.png)
+![](./ucActivityVertais.png)
 
 ## **Kysy vertaispalaute** käyttötapauksen tietovarastot
 Opettajan antaa opiskelijoille ryhmätyön vertaispalautelomakkeen kurssin päätteeksi. 
