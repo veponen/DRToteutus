@@ -51,8 +51,6 @@ Lisäksi vapaamuotoinen arvio-teksti toiminnasta
     * laskettu arvio-koonti
     * yhdistetty arvioteksti
 
-# Havaittuja lisätarpeita
-Kaikkeen "speksaustyöhön" pitäisi saada palautekanava. Jos tulee jotain mieleen jälkikäteen: lisäyksiä tai muutoksia, pitäisi olla helppo nopea tapa kirjata sellainen ylös käsiteltäväksi myöhemmin. Pitäisi pystyä helposti liittämään muutos aiheeseen. Esim. katselmointikommentti suoraan vaikkapa aktiviteettikaavion johonkin elementtiin tai useampaan elemenettiin. 
 
 
 
