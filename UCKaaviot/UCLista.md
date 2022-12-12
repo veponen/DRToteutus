@@ -68,8 +68,12 @@ Tässä annetaan aikaväli jolle kokous pitää saada aikaan
 [](./../UCKuvaukset/personalUC/)
 
 Työparien muodostaminen pariohjelmointiin persoonallisuustestin perusteella. Yhdistettävä muihin ryhmän muodostamis-tekijöihin. Ensinkysellään persoonallisuustiedot. Sitten listataan sopivat parit kullekkin. Lopuksi pyydetään valitsemaan työpari vaihtoehdoista.
-* [persoonallisuus käsittely](./../UCKuvaukset/personalUC/persoonallisuusKäsittely.mf)
+* [persoonallisuus käsittely](./../UCKuvaukset/personalUC/persoonallisuusKäsittely.md)
+Kysytään testitulokset ja jaetaan testitulos helpommin käsiteltävään muotoon. 
+
 * [listataan sopivat](./../UCKuvaukset/personalUC/ListataanSopivat.md)
+Tarkastellaan jo listattuja henkilöitä ja määritellään sopivuuden taso. Kolmeen 
+
 * [työparin valinta](./../UCKuvaukset/personalUC/työaprinValinta.md)
 
 # UCLevyraati TYÖN ALLA

@@ -33,3 +33,29 @@ Talleta vertais-arvio-laatikkoon saakkaa.
 
 # Havaittuja lisätarpeita
 TODO: Kaikkeen "speksaustyöhön" pitäisi saada palautekanava. Jos tulee jotain mieleen jälkikäteen: lisäyksiä tai muutoksia, pitäisi olla helppo nopea tapa kirjata sellainen ylös käsiteltäväksi myöhemmin. Pitäisi pystyä helposti liittämään muutos aiheeseen. Esim. katselmointikommentti suoraan vaikkapa aktiviteettikaavion johonkin elementtiin tai useampaan elemenettiin. 
+
+# Ongelmanratkaisua
+https://learn.microsoft.com/fi-fi/power-automate/create-child-flows mahdollistaa alityönkulut ja ilmeisesti on oikeus käyttää tätä. 
+
+Solutions - osan ongelmat. 
+https://powerusers.microsoft.com/t5/Building-Flows/Update-the-child-flow-for-action-Run-a-Child-Flow-to-not-use-run/m-p/638430#M85064
+
+update the child flow for action 'run_a_Child_Flow' to not use 'run-only user' connections
+
+https://learn.microsoft.com/fi-fi/power-automate/create-child-flows
+
+teksti numeroksi :
+https://powerusers.microsoft.com/t5/General-Power-Automate/Convert-text-to-number/td-p/40748
+Lainausmerkit esimerkissä on oltava niinkuin merkattu.
+
+
+<!--
+
+# omat testit
+Copy of - luettelo
+tai luettelo
+näistä jalostetaan persoonallisuuskäsittely
+
+
+
+-->
