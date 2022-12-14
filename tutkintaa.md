@@ -35,8 +35,8 @@ Opettajan antaa opiskelijoille ryhmätyön vertaispalautelomakkeen kurssin pää
 Ryhmän jäsenelle näytetään lomake jossa kysytään aktiivisuus/kontribuutio-arvio kaikista ryhmän jäsenistä asteikolla 1-5, 5 hyvin aktiivinen 1 ei ollenkaan aktiivinen. Myös itsestä pitää antaa "oma-arvio". 
 Lisäksi vapaamuotoinen arvio-teksti toiminnasta
 
-* Käsitteet alustavasti:
-* Opiskelijoiden ryhmät: nämä ovat lähtötietona (VAGroups)
+* Käsitteet alustavasti: (suluissa perässä oikea nimi personal lists-osiossa)
+* Opiskelijoiden ryhmät: nämä ovat lähtötietona (VAGroupMembers)
     * opiskelija (otsikko/Title)
     * ryhmä
 * VertaisArviot: Ryhmäläisten antamat (VAPeerReviews)
