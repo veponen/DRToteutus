@@ -44,7 +44,10 @@ Tavoitteena hyvän ja tehokkaan ryhmän muodostaminen. Sovelletaan muutamia tiet
 * [UC Kysely](./../UCKuvaukset/GroupFroming/kysely.md)
     * generoidulla lomakkeella kysellään tietoja
 * [UC Ryhmälaskenta](./../UCKuvaukset/GroupFroming/ryhmälaskenta.md)
-    * Saatujen tietojen avulla muodostetaan ryhmät
+    * Saatujen tietojen avulla muodostetaan ryhmä-ehdotukset
+    * Lasketaan henkilön väliset yhteensopivuuskertoimet, näillä mahdollistetaan ryhmän jäsenehdotukset. 
+      * GPAn suhteen voidaan laskea henkilöiden välinen "etäisyys" toisistaan.  
+    * Tärkeää olisi kerätä myös palautedataa, mutta se ei liity tähän käyttötapaukseen. 
 * [UC Ryhmänmudostuskysely](./../UCKuvaukset/GroupFroming/ryhmänmuodostuskysely.md)
     * Kysytään hyväksyykö jäsen esimuodostetun ryhmän. 
 * [UC Ryhmä-ehdotus](./../UCKuvaukset/GroupFroming/ryhmäehdotus.md)

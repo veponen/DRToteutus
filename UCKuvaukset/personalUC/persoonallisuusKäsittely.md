@@ -26,9 +26,10 @@ Yhteen listaan lisätään lomakkeelta tulevat tiedot. Muutoksia voi tulla.
 Yhteen listaan lisätään henkilön yhteensopivuustiedot.    ( ota selvää voiko listojen välille tehdä relaation)
 
 # Mahdolliset taulut
-* Personallisuustesti : Otsikko, email, MBTI, MBTI_middle, GPAHighSchool, GPAVocational, GPAVocInstName, 
+* Personallisuustesti (uusi nimi PR_personFactorData) : Otsikko, email, MBTI, MBTI_middle, GPAHighSchool, GPAVocational, GPAVocInstName, 
 * MBTIList: GivenName, SurName, eMail, MBTI, GPA, GPA2
 * SuggestedPairs: Compatibility, studentEmail, PAirEmail, StudentMBTI
 * MBTItesti: Otsikko, mbti, 
 * TE_lista: pelkkä testi. 
-* Pairs: Otsikko, Compatibility, studsEmail2, studEmail
+* Pairs (uusi nimi PR_compatibility): Otsikko, Compatibility, studsEmail2, studEmail
+  * Sovitaan että Otsikko-tieto sisältää compatibility-tyypin, esimerkiksi MBTI tai GPA. 
