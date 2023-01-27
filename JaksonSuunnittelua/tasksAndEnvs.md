@@ -1,5 +1,9 @@
+# Nimeämissäännöt
+Kannattaa sopia yhteiset nimeämissäännöt niin kaikki pysyy kärryiullä. On helpompaa pitää automate skriptit järjestyksessä kun nimeää ne omassa listassaan sovittujen sääntöjen mukaan. 
+Ryhmän kesken voi sopia usecasen 2-kirjaimisen lyhenteen (esim vertais arviointi use caseen liittyvät skirptit nimetään VA<skriptinNimi>). Nämä pitää kerätä paikkaan josta kaikki ryhmäläiset näkevät jo varatut usecase alkuliitteet. 
+Jaettuihin skripteihin laitetaan etuliite SH, jolloin tiedät itse, mitkä ovat sinun omia yksityisiä, mitkä jaettuja (esimerkiksi SH_VA<skriptiNimi>)
 # Työn jakaminen 
-Työn voi jakaa erillisiin osiin manuaali-triggerin avulla tai microsoft list kohdalta. 
+Työn voi jakaa erillisiin osiin manuaali-triggerin avulla tai microsoft list-tietovaraston kohdalta. 
 Testataan käytännössä. Jaetaan vertaisarviointi Use Case pienempiin palasiin. Suunnitellaan paloissa testattava toteutus. 
 **Rajapinnat:** jos käytetään manuaali-triggerillä eroteltuja paloja, rajapintamuuttujat pitää nimetä sovitusti selkeästi:RAJ_<muuttuja>. Ja niiden arvot pitää heti sijoittaa oikeassa tilanteessa käytettäviin muuttujiin. Ensimmäinen kokeilu: vertaispalautelomakkeen korvaaminen? 
 VAKysyVertaisarviointi
